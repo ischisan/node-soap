@@ -2,6 +2,8 @@
 
 > A SOAP client and server for node.js.
 
+**This is a temporary fork from https://github.com/vpulim/node-soap (Author Vinay Pulim) with working MTOM and gzip compression support.**
+
 This module lets you connect to web services using SOAP.  It also provides a server that allows you to run your own SOAP services.
 
 <!-- Run `npm run toc` to update below section -->
