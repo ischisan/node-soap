@@ -1,7 +1,7 @@
 {
-  "name": "soap",
-  "version": "0.42.0",
-  "description": "A minimal node SOAP client. Temporary fork",
+  "name": "soap-mtom-gzip",
+  "version": "0.43.0",
+  "description": "A minimal node SOAP client. Temporary fork.",
   "engines": {
     "node": ">=10.0.0"
   },
