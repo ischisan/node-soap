@@ -1,5 +1,5 @@
 {
-  "name": "soap-mtom-gzip",
+  "name": "soap-mtom-fix-gzip",
   "version": "0.43.0",
   "description": "A minimal node SOAP client. Temporary fork.",
   "engines": {
