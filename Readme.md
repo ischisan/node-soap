@@ -524,7 +524,7 @@ Interesting properties might be:
   ]
   ```
 * `forceMTOM`: set to True if you want to send the request as MTOM even if you don't have attachments
-* `forceGzip`: set to True if you ant to force transfer-encoding in gzip (default: ```false```)
+* `forceGzip`: set to True if you want to force transfer-encoding in gzip (default: ```false```)
 
 
 ### Client.*method*Async(args, options) - call *method* on the SOAP service.
@@ -557,7 +557,7 @@ Interesting properties might be:
   ]
   ```
 * `forceMTOM`: set to True if you want to send the request as MTOM even if you don't have attachments
-* `forceGzip`: set to True if you ant to force transfer-encoding in gzip (default: ```false```)
+* `forceGzip`: set to True if you want to force transfer-encoding in gzip (default: ```false```)
 
 ##### Example with JSON for the `args`
 The example above uses `{name: 'value'}` as the args. This may generate a SOAP messages such as:
